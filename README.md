@@ -1,4 +1,4 @@
-## Hi there 👋
+## README 👋
 
 <!--
 **Nox1KCL/Nox1KCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
