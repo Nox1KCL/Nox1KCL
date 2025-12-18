@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="6px"> What's up? I'm Maksym 👨‍💻
 
-**I'm a Python developer exploring the stack, one line of code at a time.**
+**I'm a Python developer which exploring the stack, one line of code at a time.**
 Check out my stuff below.
 
 ---
