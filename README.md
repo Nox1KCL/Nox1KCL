@@ -11,7 +11,9 @@ Check out my stuff below.
 * 👔 **Current Mission:** Leveling up my skills and building solid solutions.
 * 👖 **Learning Path:** Currently deep-diving into **Backend Architecture (REST APIs)** and mastering **Docker & Databases**.
 * 👞 **Talk to me about:** Open source, cyberpunk aesthetics, or any interesting tech challenges.
-* 📧 **Get in touch:** [forfreelancepc@gmail.com](mailto:forfreelancepc@gmail.com)
+* ✉️ **Get in touch:** [forfreelancepc@gmail.com](mailto:forfreelancepc@gmail.com)
 
 ---
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)
+`I use `<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white" vertical-align="middle" height="20">` btw` 
+
+![Nox1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nox1KCL&show_icons=true&theme=tokyonight)
