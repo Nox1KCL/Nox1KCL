@@ -14,5 +14,4 @@ Check out my stuff below.
 * 📧 **Get in touch:** [forfreelancepc@gmail.com](mailto:forfreelancepc@gmail.com)
 
 ---
-`I use` <img src="https://www.streamlinehq.com/icons/download/arch-linux--22600.png"
- width="16" height="16"> `ARCH btw` 🐧
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)
