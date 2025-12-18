@@ -1,11 +1,11 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px"> Yo choom! I'm Maksym 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px"> What's up? I'm Maksym 👨‍💻
 
 **I'm a Python developer exploring the stack, one line of code at a time.**
 Check out my stuff below.
 
 ---
 
-### 🛠 About Me
+### 📄 About Me
 
 * 👓 **What I do:** I study every day. I love building things just to see how they work.
 * 👔 **Current Mission:** Leveling up my skills and building solid solutions.
@@ -14,4 +14,5 @@ Check out my stuff below.
 * 📧 **Get in touch:** [forfreelancepc@gmail.com](mailto:forfreelancepc@gmail.com)
 
 ---
-<img src="https://iconscout.com/icons/archlinux">`I use ARCH btw` 🐧
+`I use` <img src="https://www.streamlinehq.com/icons/download/arch-linux--22600.png"
+ width="16" height="16"> `ARCH btw` 🐧
