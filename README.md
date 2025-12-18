@@ -18,7 +18,7 @@ Do me a solid and check out my stuff below.
 
 ---
 
-<img alt="Vibe coffee" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE2OWtoZmh6djBkdmVlNnV0a3QycjZsZnhxYXljdXh2ODh5NnB5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7gdwW1UOWyRlVYpwt/giphy.gif" height="300" align="right"/>
+<img alt="Vibe coffee" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE2OWtoZmh6djBkdmVlNnV0a3QycjZsZnhxYXljdXh2ODh5NnB5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7gdwW1UOWyRlVYpwt/giphy.gif" height="310" align="right"/>
 
 ### 💼 &nbsp;Tech Stack
 
