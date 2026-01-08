@@ -11,7 +11,7 @@ Do me a solid and check out my stuff below.
 * 👔 **Current Mission:** Leveling up my skills and building solid solutions.
 * 👖 **Learning Path:** Currently deep-diving into **Backend Architecture (REST APIs)** and mastering **Docker & Databases**.
 * 👞 **Talk to me about:** Open source, cyberpunk aesthetics, or any interesting tech challenges.
-* ✉️ **Get in touch:** [korshunov.maks09@gmail.com](mailto:korshunov.maks09@gmail.com)
+* ✉️ **Get in touch:** [forfreelancepc@gmail.com](mailto:forfreelancepc@gmail.com)
 
 
 `I use `<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white" vertical-align="middle" height="20">` btw` 
