@@ -53,8 +53,8 @@ Do me a solid and check out my stuff below.
 ###  📊 &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nox1KCL&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nox1KCL&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Nox1KCL">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nox1KCL&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nox1KCL&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
 </a>
-</p>
+</p>>
