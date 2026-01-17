@@ -13,7 +13,7 @@ Do me a solid and check out my stuff below.
 * 👞 **Talk to me about:** Open source, cyberpunk aesthetics, or any interesting tech challenges.
 * ✉️ **Get in touch:** [forfreelancepc@gmail.com](mailto:forfreelancepc@gmail.com)
 
-* 🐧 **<img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white" vertical-align="middle" height="50">**
+* `I use` **<img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white" vertical-align="middle" height="50">** `btw`
 
 ---
 
