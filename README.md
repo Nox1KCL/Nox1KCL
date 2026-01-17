@@ -13,8 +13,7 @@ Do me a solid and check out my stuff below.
 * 👞 **Talk to me about:** Open source, cyberpunk aesthetics, or any interesting tech challenges.
 * ✉️ **Get in touch:** [forfreelancepc@gmail.com](mailto:forfreelancepc@gmail.com)
 
-
-`I use `<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white" vertical-align="middle" height="20">` btw` 
+* 🐧 **<img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white" vertical-align="middle" height="50">**
 
 ---
 
