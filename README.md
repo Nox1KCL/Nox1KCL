@@ -1,3 +1,4 @@
+![Hiromi_laying_in_a_bathtub](https://github.com/user-attachments/assets/4d3ee833-48ed-4bb7-9f83-6adc298d1cdd)
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="6px"> What's up? I'm Maksym 👨‍💻
 
 ### **I'm a Python developer who is exploring the stack, one line of code at a time.**
