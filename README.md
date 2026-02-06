@@ -11,7 +11,7 @@ Do me a solid and check out my stuff below.
 * 👓 **What I do:** I study every day. I love building things just to see how they work.
 * 👔 **Current Mission:** Leveling up my skills and building solid solutions.
 * 👖 **Learning Path:** Currently deep-diving into **Backend Architecture (REST APIs)** and mastering **Docker & Databases**.
-* 👞 **Talk to me about:** Open source, cyberpunk aesthetics, or any interesting tech challenges.
+* 👞 **Talk to me about:** Newest features or any interesting tech challenges.
 * ✉️ **Get in touch:** [forfreelancepc@gmail.com](mailto:forfreelancepc@gmail.com)
 
 * `I use` **<img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white" vertical-align="middle" height="50">** `btw`
