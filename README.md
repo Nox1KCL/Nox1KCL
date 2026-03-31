@@ -14,8 +14,6 @@ Do me a solid and check out my stuff below.
 * 👞 **Talk to me about:** Newest features or any interesting tech challenges.
 * ✉️ **Get in touch:** [forfreelancepc@gmail.com](mailto:forfreelancepc@gmail.com)
 
-* `I use` **<img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white" vertical-align="middle" height="50">** `btw`
-
 ---
 
 <img alt="Vibe coffee" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE2OWtoZmh6djBkdmVlNnV0a3QycjZsZnhxYXljdXh2ODh5NnB5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7gdwW1UOWyRlVYpwt/giphy.gif" height="310" align="right"/>
@@ -42,7 +40,6 @@ Do me a solid and check out my stuff below.
 
 **Tools & Infrastructure**
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
