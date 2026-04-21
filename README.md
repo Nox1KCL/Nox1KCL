@@ -11,20 +11,6 @@ Do me a solid and check out my stuff below.
 
 ### 💼 &nbsp;Tech Stack
 
-**Languages & Frameworks**
-<p align="left">
-
-</p>
-
-**Databases & APIs**
-<p align="left">
-  
-</p>
-
-**Tools & Infrastructure**
-<p align="left">
-  
-</p>
 
 ---
 
