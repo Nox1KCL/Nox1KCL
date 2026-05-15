@@ -8,8 +8,8 @@ Do me a solid and check out my stuff below.
 ---
 
 ### 💼 &nbsp;Tech Stack
+<img width="340" height="340" alt="takeyourheart" src="https://github.com/user-attachments/assets/07cb7b7e-acd2-453c-8d29-a0a20516be3b" />
 
-<img align="right" width="340" height="340" alt="takeyourheart" src="https://github.com/user-attachments/assets/07cb7b7e-acd2-453c-8d29-a0a20516be3b" />
 
 ---
 
