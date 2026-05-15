@@ -15,7 +15,8 @@ Do me a solid and check out my stuff below.
 ---
 
 ###  📊 &nbsp;GitHub Analytics
-<img alt="Vibe coffee" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE2OWtoZmh6djBkdmVlNnV0a3QycjZsZnhxYXljdXh2ODh5NnB5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7gdwW1UOWyRlVYpwt/giphy.gif" height="340" align="right"/>
+<img width="340" height="340" alt="takeyourheart" src="https://github.com/user-attachments/assets/07cb7b7e-acd2-453c-8d29-a0a20516be3b" />
+
 
 <p align="center">
 <a href="https://github.com/Nox1KCL">
