@@ -7,16 +7,13 @@ Do me a solid and check out my stuff below.
 
 ---
 
-
-
 ### 💼 &nbsp;Tech Stack
 
+<img align="right" width="340" height="340" alt="takeyourheart" src="https://github.com/user-attachments/assets/07cb7b7e-acd2-453c-8d29-a0a20516be3b" />
 
 ---
 
 ###  📊 &nbsp;GitHub Analytics
-<img align="right" width="340" height="340" alt="takeyourheart" src="https://github.com/user-attachments/assets/07cb7b7e-acd2-453c-8d29-a0a20516be3b" />
-
 
 <p align="center">
 <a href="https://github.com/Nox1KCL">
